@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "actusapostolorum00steeuoft_0319.png"; bbox 0 0 2430 4030; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2430 2638">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 2430 2638">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 2430 2042; baseline 0 -164"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 2430 2042; x_wconf 95' lang='lat' dir='ltr'>   </span> <span class='ocrx_word' id='word_1_2' title='bbox 1591 1690 2430 2042; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 2042 2430 2638; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 0 2042 2430 2638; x_wconf 95' lang='lat' dir='ltr'>   </span> <span class='ocrx_word' id='word_1_4' title='bbox 1491 2416 2430 2638; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 783 1737 1677 1821">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 783 1737 1677 1821">
+     <span class='ocr_line' id='line_1_3' title="bbox 783 1737 1677 1821; baseline 0.029 -34"><span class='ocrx_word' id='word_1_5' title='bbox 783 1737 1220 1814; x_wconf 64' lang='lat' dir='ltr'>STEENKISTE,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1276 1750 1309 1801; x_wconf 70' lang='lat' dir='ltr'><em>J</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1327 1753 1428 1806; x_wconf 70' lang='lat' dir='ltr'>.A.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1451 1794 1470 1821; x_wconf 89' lang='lat'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1528 1771 1677 1814; x_wconf 76' lang='lat' dir='ltr'>van.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 858 1906 1591 1997">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 858 1906 1591 1997">
+     <span class='ocr_line' id='line_1_4' title="bbox 858 1906 1591 1997; baseline 0.033 -40"><span class='ocrx_word' id='word_1_10' title='bbox 858 1906 1059 1962; x_wconf 72' lang='lat' dir='ltr'>Actus</span> <span class='ocrx_word' id='word_1_11' title='bbox 1106 1915 1591 1997; x_wconf 56' lang='lat' dir='ltr'>Apostolorum,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 591 2450 2114 2644">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 591 2450 2114 2644">
+     <span class='ocr_line' id='line_1_5' title="bbox 591 2450 2020 2518; baseline -0.001 -14"><span class='ocrx_word' id='word_1_12' title='bbox 591 2450 1035 2518; x_wconf 66' lang='lat' dir='ltr'>STEEKKISTE,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1090 2450 1283 2518; x_wconf 73' lang='lat' dir='ltr'><strong><em>J.A.,</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1339 2462 1491 2504; x_wconf 75' lang='lat' dir='ltr'><strong>van.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2011 2470 2020 2474; x_wconf 89' lang='lat'><strong>·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 673 2524 2114 2644; baseline -0.002 -56"><span class='ocrx_word' id='word_1_16' title='bbox 673 2533 879 2589; x_wconf 76' lang='lat' dir='ltr'>Actus</span> <span class='ocrx_word' id='word_1_17' title='bbox 923 2534 1407 2603; x_wconf 69' lang='lat' dir='ltr'>Apostolorum.</span> <span class='ocrx_word' id='word_1_18' title='bbox 1957 2524 2114 2644; x_wconf 45' lang='lat'>2635</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
